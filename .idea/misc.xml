@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Licenta/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.236" />
+        <entry key="..\:/Licenta/app/src/main/res/drawable/browser.xml" value="0.2135" />
+        <entry key="..\:/Licenta/app/src/main/res/drawable/eCibCoin_background.xml" value="0.111" />
+        <entry key="..\:/Licenta/app/src/main/res/drawable/ecibcoin_background.xml" value="0.2445" />
+        <entry key="..\:/Licenta/app/src/main/res/drawable/facebook.xml" value="0.2595" />
+        <entry key="..\:/Licenta/app/src/main/res/drawable/ic_launcher_background.xml" value="0.236" />
+        <entry key="..\:/Licenta/app/src/main/res/drawable/side_nav_bar.xml" value="0.2135" />
+        <entry key="..\:/Licenta/app/src/main/res/layout/activity_browse_web.xml" value="0.25416666666666665" />
+        <entry key="..\:/Licenta/app/src/main/res/layout/activity_creare_cont.xml" value="0.264" />
+        <entry key="..\:/Licenta/app/src/main/res/layout/activity_criptomonede.xml" value="0.1921875" />
+        <entry key="..\:/Licenta/app/src/main/res/layout/activity_despre_criptomonede.xml" value="0.264" />
+        <entry key="..\:/Licenta/app/src/main/res/layout/activity_display_evenimente.xml" value="0.25416666666666665" />
+        <entry key="..\:/Licenta/app/src/main/res/layout/activity_evenimente.xml" value="0.25416666666666665" />
+        <entry key="..\:/Licenta/app/src/main/res/layout/activity_facebook.xml" value="0.25416666666666665" />
+        <entry key="..\:/Licenta/app/src/main/res/layout/activity_feedback.xml" value="0.25416666666666665" />
+        <entry key="..\:/Licenta/app/src/main/res/layout/activity_instagram.xml" value="0.25416666666666665" />
+        <entry key="..\:/Licenta/app/src/main/res/layout/activity_logare.xml" value="0.264" />
+        <entry key="..\:/Licenta/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Licenta/app/src/main/res/layout/activity_main1.xml" value="0.25416666666666665" />
+        <entry key="..\:/Licenta/app/src/main/res/layout/activity_meniu.xml" value="0.264" />
+        <entry key="..\:/Licenta/app/src/main/res/layout/activity_meniu_aplicatie.xml" value="0.25416666666666665" />
+        <entry key="..\:/Licenta/app/src/main/res/layout/activity_notite.xml" value="0.25416666666666665" />
+        <entry key="..\:/Licenta/app/src/main/res/layout/activity_recuperare_parola.xml" value="0.25416666666666665" />
+        <entry key="..\:/Licenta/app/src/main/res/layout/activity_social_media.xml" value="0.25416666666666665" />
+        <entry key="..\:/Licenta/app/src/main/res/layout/activity_stiri.xml" value="0.25416666666666665" />
+        <entry key="..\:/Licenta/app/src/main/res/layout/activity_update_evenimente.xml" value="0.25416666666666665" />
+        <entry key="..\:/Licenta/app/src/main/res/layout/activity_web.xml" value="0.25416666666666665" />
+        <entry key="..\:/Licenta/app/src/main/res/layout/activity_youtube.xml" value="0.25416666666666665" />
+        <entry key="..\:/Licenta/app/src/main/res/layout/app_bar_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Licenta/app/src/main/res/layout/article_item.xml" value="0.1921875" />
+        <entry key="..\:/Licenta/app/src/main/res/layout/content_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Licenta/app/src/main/res/layout/event_rv_modal.xml" value="0.25416666666666665" />
+        <entry key="..\:/Licenta/app/src/main/res/layout/nav_header_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Licenta/app/src/main/res/layout/nav_hedear_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Licenta/app/src/main/res/layout/rv_currency_item.xml" value="0.1921875" />
+        <entry key="..\:/Licenta/app/src/main/res/menu/activity_main_drawer.xml" value="0.25416666666666665" />
+        <entry key="..\:/Licenta/app/src/main/res/menu/activity_main_drawer.xml.xml" value="0.25416666666666665" />
+        <entry key="..\:/Licenta/app/src/main/res/menu/navigatie.xml" value="0.16" />
+        <entry key="..\:/Licenta/app/src/main/res/mipmap-anydpi-v26/eCibCoin.xml" value="0.2445" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

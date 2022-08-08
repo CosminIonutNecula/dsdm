@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.ecibcoin">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ecibcoinapp"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ecibcoinapp_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.ECibCoin"
+        android:usesCleartextTraffic="false"
+        tools:targetApi="m">
+        <activity
+            android:name=".Utilizator.UpdateEvenimente"
+            android:exported="false" />
+        <activity
+            android:name=".Utilizator.DisplayEvenimente"
+            android:exported="false" />
+        <activity
+            android:name=".Utilizator.Evenimente"
+            android:exported="false" />
+        <activity
+            android:name=".Utilizator.Notite"
+            android:exported="false" />
+        <activity
+            android:name=".Stiri"
+            android:exported="false" />
+        <activity
+            android:name=".WebActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Criptomonede"
+            android:exported="false" />
+        <activity
+            android:name=".webStuffs.Instagram"
+            android:exported="false" />
+        <activity
+            android:name=".webStuffs.Youtube"
+            android:exported="false" />
+        <activity
+            android:name=".webStuffs.Facebook"
+            android:exported="false" />
+        <activity
+            android:name=".SocialMedia"
+            android:exported="false" />
+        <activity
+            android:name=".Feedback"
+            android:exported="false" />
+        <activity
+            android:name=".MeniuAplicatie"
+            android:exported="false" />
+        <activity
+            android:name=".webStuffs.BrowseWeb"
+            android:exported="false" />
+        <activity
+            android:name=".DespreCriptomonede.DespreCriptomonede"
+            android:exported="false" />
+        <activity
+            android:name=".Logare"
+            android:exported="false" />
+        <activity
+            android:name=".CreareCont"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "368644790213",
+    "project_id": "ecibcoin-98771",
+    "storage_bucket": "ecibcoin-98771.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368644790213:android:d0bc671df195b9d0de5dac",
+        "android_client_info": {
+          "package_name": "com.example.ecibcoin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "368644790213-5q5u8mukupjnbn38nsh7qkkd58jhlf1e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHIC8VwYnr07dFHyR7WRT_2uKoQWIc_aM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "368644790213-5q5u8mukupjnbn38nsh7qkkd58jhlf1e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

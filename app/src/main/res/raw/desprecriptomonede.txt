@@ -1,0 +1,23 @@
+﻿     	Despre criptomonede 
+
+	Piața cripto este cu mult mai dezvoltă acum, în zilele noastre, in comparație cu 2009 atunci când a apărut Bitcoin. Au apărut din ce în ce mai multe monede decentralizate după Bitcoin, fiecare cu caracteristici diferite față de Bitcoin, ceea ce a făcut ca piața cripto să se adapteze în timp si să fie tot mai flexibilă pe nevoile investitorilor.
+
+
+	Altcoins
+
+	Criptomonedele sub numele de Altcoins sau Alternative coins sunt în principiu criptomonede inspirate de Bitcoin, din modelul de utilizare peer-to-peer  al acestuia. Toate se bazează pe utilizarea rețelei blockchain  pentru tranzacții, utilizează adresele si perechile de chei pentru securitate si gestionare tranzacții prin intermediul unui sistem distribuit de consimțământ, tradus ca și activitate de minat. Decentralizate, supuse unor politici de tranzacționare transparente și clar definite și nu necesită implicarea unei a treia părți în gestionare. Datorită popularității acumulate in timp aceste altcoins se mai regăsesc și sub numele de payment currencies pentru că posibilitatea de a achiziționa bunuri si servicii folosind aceste tipuri de criptomonede este mai mare chiar dacă si celelalte criptomonede pot fi utilizate cu același scop. Namecoin(NMC) a fost primul altcoin creat, iar la ora actuală cele mai cunoscute altcoins sunt Bitcoin Cash(BCH) si LiteCoin(LTC). Deși am putea include aici orice criptomonedă diferită de Bitcoin, pentru ca blockchain-ul de bază al acestora este diferit față de Bitcoin, BCH sau LTC, le vom lăsa pentru alte categorii. Acum, chiar daca BCH și LTC sunt în aceeași categorie, aceste criptomonede diferă din mai multe puncte de vedere, cum ar fi viteza de transmitere a datelor, volumul de informații ce pot fi transmise într-un bloc și algoritmii de minat utilizați. LiteCoin folosește un algoritm mai centralizat numit Scrypt hash fiind cel mai popular sistem de consens PoW  iar Bitcoin Cash folosește același algoritm de minat ca Bitcoin, adică SHA-256.
+
+
+	Privacy coins
+      
+      	Deși o caracteristică de baza a monedelor electronice este anonimitatea, având în vedere că pentru procesarea tranzacțiilor ai nevoie de un ledger public pentru transparență, ea nu există în totalitate. Firmele de analiză au început să “demaște” parțial adresele pentru identificarea părților participante la tranzacții iar răspunsul nu s-a lăsat mult așteptat, astfel au apărut criptomonedele ce conferă anonimitate absolută. Cele mai importante sunt: Monero(XMR), Zchash (ZEC) si Dash(DASH).
+
+
+	Stablecoins
+
+       	Știm cu toții ca principalul dezavantaj al criptomonedelor este volatilitatea acestora, există o categorie și anume Stablecoins care au ca și scop principal fixarea de preț sigur pentru criptomonede raportat la activele de pe piața fiat. Ca și stablecoins principale avem Theter, MarkedDao si Basecoin, fiecare funcționând după un model diferit.
+
+
+	Tokenuri
+ 
+       	Au rol de achiziție de bunuri și servicii în aplicații decentralizate, numite și dApps, și spre deosebire de celelalte tipuri de criptomonede, tokenurile nu au rețea proprie de blockchain și nici utilizabile in blockchain. În aplicațiile decentralizate se folosesc tokenuri pentru ca ele funcționează pe baza unor contracte inteligente numite si Smart Contracts. 
