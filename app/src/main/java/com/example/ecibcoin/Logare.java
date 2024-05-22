@@ -24,6 +24,7 @@ public class Logare extends AppCompatActivity {
 
     TextInputEditText tietEmailLogare, tietParolaLogare;
     Button btnLogare;
+    Button BTN;
     TextView tvGoToCreatePage;
     FirebaseAuth mAuth;
     @Override
